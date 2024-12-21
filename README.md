@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Yash Khurana</h1>
 <h3 align="center"> Eager to Contribute to Innovative Projects  </h3>
 
-[![](https://visitcount.itsvg.in/api?id=itsyashkhurana&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=yash&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 
 
 <h3 align="left">Connect with me:</h3>
